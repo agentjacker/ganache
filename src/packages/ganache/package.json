@@ -94,7 +94,7 @@
     "@trufflesuite/bigint-buffer": "1.1.10",
     "@types/bn.js": "^5.1.0",
     "@types/lru-cache": "5.1.1",
-    "@types/seedrandom": "3.0.1",
+    "@types/seedrandom": "3.0.2",
     "emittery": "0.10.0",
     "keccak": "3.0.2",
     "leveldown": "6.1.0",
